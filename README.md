@@ -7,15 +7,12 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
+    - [Key Features](#key-features
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -74,7 +71,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```
- git@github.com:mrkamin/Hello-Rails-backend.git
+git@github.com:mrkamin/Hello-Rails-Back-End.git
 
 ```
 
@@ -120,7 +117,7 @@ rails s
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/mrkamin/Hello-Rails-backend/issues).
+Feel free to check the [issues page](https://github.com/mrkamin/Hello-Rails-Back-End/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -142,6 +139,6 @@ Thanks (@microverse (https://www.microverse.org/))
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/mrkamin/Hello-Rails-backend/blob/main/LICENSE) licensed.
+This project is [MIT](https://github.com/mrkamin/Hello-Rails-Back-End/blob/main/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
